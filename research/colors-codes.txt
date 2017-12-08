@@ -1,0 +1,13 @@
+dark-purple: #0f0342
+light-purple: #150a52
+lighter-purple: #1b1461
+lightest-purple: #190d59
+
+dark-blue: #1c42fd
+light-blue: #1ec7f9
+
+dark-blue-text: #304ffe
+
+light-purple-text: #635bd3
+
+light-pink-text: #eb3c7d;
